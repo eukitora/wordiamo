@@ -1,6 +1,6 @@
 # Wordiamo
 
-Wordiamo is a board game where you build and bridge words.
+Wordiamo is a board game where you build and bridge words!
 
 Website: http://www.wordiamo.com/
 
