@@ -1,6 +1,7 @@
 # Wordiamo
 
 Build word islands and bridges!
+
 Play friends and robots!
 
 Website: http://www.wordiamo.com/
